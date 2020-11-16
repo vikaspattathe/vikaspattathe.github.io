@@ -13,8 +13,8 @@
             "name":"Chicken",
             "quantity":"2",
             "unit":"kg",
-            "department":"meat",
-            "notes":"none"
+            "department":"Meat",
+            "notes":"None"
 
         },
         {
@@ -28,11 +28,11 @@
         },
         {
             "slno":"4",
-            "name":"cashew nuts",
+            "name":"Cashew nuts",
             "quantity":"100",
             "unit":"grams",
             "department":"Seed/Nuts",
-            "notes":"none"
+            "notes":"None"
         },
         {
             "slno":"5",
@@ -48,7 +48,7 @@
             "quantity":"1",
             "unit":"pack",
             "department":"Food",
-            "notes":"Kanan devan"
+            "notes":"Kanan Devan"
         },
         {
             "slno":"7",
