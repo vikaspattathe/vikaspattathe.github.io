@@ -1,0 +1,27 @@
+.indicator{
+  height: 5px;
+  margin: 0px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* margin-bottom: 6px; */
+}
+.indicator span{
+  position: relative;
+  height: 100%;
+  width: 100%;
+  background: lightgrey;
+  border-radius: 5px;
+}
+
+.myForm label    {
+  margin-bottom: 3px;
+  margin-top: 0px;
+}
+
+.strength{
+  text-align: center;
+  margin: 0px;
+  font-weight: 100;
+  padding: 0px;
+}
