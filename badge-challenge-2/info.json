@@ -1,0 +1,70 @@
+{
+    "info":[
+        {
+            "slno":"1",
+            "name":"Rice",
+            "quantity":"10",
+            "unit":"kg",
+            "department":"Food",
+            "notes":"India Gate"
+        },
+        {
+            "slno":"2",
+            "name":"Chicken",
+            "quantity":"2",
+            "unit":"kg",
+            "department":"meat",
+            "notes":"none"
+
+        },
+        {
+            "slno":"3",
+            "name":"Sugar",
+            "quantity":"1",
+            "unit":"kg",
+            "department":"Food",
+            "notes":"Royal"
+
+        },
+        {
+            "slno":"4",
+            "name":"cashew nuts",
+            "quantity":"100",
+            "unit":"grams",
+            "department":"Seed/Nuts",
+            "notes":"none"
+        },
+        {
+            "slno":"5",
+            "name":"Coconut oil",
+            "quantity":"2",
+            "unit":"l",
+            "department":"Food",
+            "notes":"Mill"
+        },
+        {
+            "slno":"6",
+            "name":"Tea Powder",
+            "quantity":"1",
+            "unit":"pack",
+            "department":"Food",
+            "notes":"Kanan devan"
+        },
+        {
+            "slno":"7",
+            "name":"Soap",
+            "quantity":"5",
+            "unit":"pack",
+            "department":"Skin care",
+            "notes":"Lux"
+        },
+        {
+            "slno":"8",
+            "name":"Chilli powder",
+            "quantity":"0.5",
+            "unit":"kg",
+            "department":"Food",
+            "notes":"Kitchen Treasure"
+        }
+    ]
+}
